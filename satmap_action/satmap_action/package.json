@@ -1,0 +1,10 @@
+{
+  "name": "satmap-action",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.53",
+    "node-fetch": "^3.3.2"
+  }
+}
